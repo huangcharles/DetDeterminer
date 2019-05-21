@@ -1,8 +1,8 @@
 # DetDeterminer
 
-# Project Title and purpose
+# DeterminantDeterminer
 
-One Paragraph of project description goes here
+This project intends to calculate the determinant of any square matrix and then identify if the matrix is invertible or not. As of now, the project will not calculate the inverse. The determinant is an indicator of whether or not the matrix is invertible or not: the matrix is invertible if and only if the determinant equals 0. 
 
 ### Difficulties or opportunities you encountered along the way.
 
