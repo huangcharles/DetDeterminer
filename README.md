@@ -2,7 +2,7 @@
 
 # DeterminantDeterminer
 
-This project calculates the determinant of a 3x3 matrix and then identify if the matrix is invertible or not. The determinant is an indicator of whether or not the matrix is invertible or not: the matrix is invertible if and only if the determinant equals 0. 
+This project calculates the determinant of a 3x3 matrix and then identify if the matrix is invertible or not. The determinant is an indicator of whether or not the matrix is invertible or not: the matrix is invertible if and only if the determinant equals zero. 
 
 Furthermore, this project applies Cramer's Rule to solve simultaneous equations with 3 variables. By inputting the augmented matrix and the answer matrix, by using determinants, the solution can be found. Cramer's rule invokes the determination of 3 determinants in addition to the determinant of the original augmented matrix. For more on Cramer's Rule, see this link: http://mathworld.wolfram.com/CramersRule.html.
 
